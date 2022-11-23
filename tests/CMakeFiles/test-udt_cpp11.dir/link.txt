@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/test-udt_cpp11.dir/src/unit-udt.cpp.o" CMakeFiles/test_main.dir/src/unit.cpp.o -o test-udt_cpp11 
